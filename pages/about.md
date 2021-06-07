@@ -11,7 +11,9 @@ Nice that you’re here. This is my personal blog and I post about things I do a
 
 **Who Am I**
 
-Senior Software Developer at Infoedge with a demonstrated history of working in the online media industry. Skilled in React.js, Redux, Express.js, Javascript, and Node.js. Strong engineering professional with a Bachelor of Computer Science (B.Tech.).
+Senior Software Developer at Infoedge with a demonstrated history of working in the online media industry. Skilled in React.js, Redux, Express.js, Javascript, and Node.js. Strong engineering professional with a Bachelor of Computer Science (B.Tech.). 
+
+Checkout my full [resume](https://whogopu.github.io/online-cv/){:target="_blank"}
 
 **Reach Out**
 
