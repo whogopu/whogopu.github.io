@@ -1,5 +1,5 @@
 # Icons on the footer
-rss: true
+# rss: true
 email_address: whogopu@gmail.com   # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
@@ -11,7 +11,7 @@ github: whogopu
 instagram: whogopu
 keybase:
 linkedin: https://www.linkedin.com/in/whogopu/        # Full URL
-pinterest: whogopu
+# pinterest: whogopu
 reddit: whogopu
 soundcloud:
 stack_overflow:
